@@ -1,0 +1,4 @@
+Solution of the Titanic Data set from Kaggle :
+The objective of this exercise is to use logistic regression to analyze the Titanic dataset
+and identify key predictors of survival. By modeling these relationships, we aim to
+quantify the impact of factors such as class, sex, age, and fare on survival odds.
